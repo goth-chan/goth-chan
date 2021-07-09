@@ -12,5 +12,8 @@ Projects I work(ed) on:
 - ✔️ Discord Bot Bug Hunter As I don't Know The Number.
 - ✔️ 3x Discord Bugs Found and Reported.
 
+Stuff That I Know
+	<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ssss4vu6dcmq5v53lql9wnrpq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
