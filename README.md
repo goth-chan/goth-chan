@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Developergoth)
+
 ###  👋 Hi, I’m Aral.
 - 👀 I’m interested in [Coding](https://www.youtube.com/watch?v=dQw4w9WgXcQ),Gaming.
 - 🌱 I’m currently learning everything...
@@ -10,4 +12,5 @@ Projects I work(ed) on:
 - ✔️ Discord Bot Bug Hunter As I don't Know The Number.
 - ✔️ 3x Discord Bugs Found and Reported.
 
-![](https://komarev.com/ghpvc/?username=Developergoth)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ssss4vu6dcmq5v53lql9wnrpq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
