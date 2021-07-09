@@ -1,7 +1,7 @@
 ###  👋 Hi, I’m Aral.
 - 👀 I’m interested in [Coding](https://www.youtube.com/watch?v=dQw4w9WgXcQ),Gaming.
 - 🌱 I’m currently learning everything...
-- 📫 How to reach me: [Discord - ⌔ Ben aRal#6531](https://discord.com/channels/@me/758191763487457322)
+- 📫 How to reach me: Discord [⌔ Ben aRal#6531](https://discord.com/channels/@me/758191763487457322)
 
 Projects I work(ed) on:
 
