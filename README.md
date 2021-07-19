@@ -8,7 +8,7 @@
 ### Projects I work(ed) on:
 
 - ✔️ Avacado - Discord Fun/Music/Mod Bot (Verified,Owner).
-- ✔️ 4 Different Bots For 45K Discord Server (Systems You Can't Find On The Internet).
+- ✔️ 4 Different Bots For 45K Discord Server.
 - ✔️ Discord Bot Bug Hunter As I don't Know The Number.
 - ✔️ 3x Discord Bugs Found and Reported.
 
