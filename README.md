@@ -5,12 +5,26 @@
 - 🌱 I’m currently learning everything...
 - 📫 How to reach me: Discord [⌔ Ben aRal#6531](https://discord.com/users/758191763487457322)
 
-### Projects I work(ed) on:
 
-- ✔️ Avacado - Discord Fun/Music/Mod Bot (Verified,Owner).
-- ✔️ 4 Different Bots For 45K Discord Server.
-- ✔️ Discord Bot Bug Hunter As I don't Know The Number.
-- ✔️ 3x Discord Bugs Found and Reported.
+```js
+ const Aral = {
+ 	pronouns: ['goth', 'Aral', 'He'],
+   	Languages: ['Javascript', 'HTML', 'PHP', 'C#', ''],
+   	Tools: ['VSCode', 'Node', 'DiscordJS'],
+   	hobbies:[
+       Games: ['CS:GO', 'Valorant', 'R6'...],
+       WatchingAnime: true,
+       TVSeries: true
+   ],  
+   	Projects: {
+   	    Avacado bot: "A full bot Created for Discord",
+           Titan bots: "One Of The Biggest Discord Servers in Turkey"
+   	},
+    And some: {
+        Discord: "Bug hunter(not badged -_-)"
+}
+ }
+```
 
  Stuff That I Know</br>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
