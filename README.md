@@ -17,8 +17,8 @@
        TVSeries: true
    ],  
    	Projects: {
-   	    Avacado bot: "A full bot Created for Discord",
-           Titan bots: "One Of The Biggest Discord Servers in Turkey"
+   	    Avacadobot: "A full bot Created for Discord",
+           Titanbots: "One Of The Biggest Discord Servers in Turkey"
    	},
     And some: {
         Discord: "Bug hunter(not badged -_-)"
