@@ -9,7 +9,7 @@
 ```js
  const Aral = {
  	pronouns: ['goth', 'Aral', 'He'],
-   	Languages: ['Javascript', 'HTML', 'PHP', 'C#', ''],
+   	Languages: ['Javascript', 'HTML', 'PHP', 'C#'],
    	Tools: ['VSCode', 'Node', 'DiscordJS'],
    	hobbies:[
        Games: ['CS:GO', 'Valorant', 'R6'...],
