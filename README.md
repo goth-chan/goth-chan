@@ -12,7 +12,7 @@
    	Languages: ['Javascript', 'HTML', 'PHP', 'C#'],
    	Tools: ['VSCode', 'Node', 'DiscordJS'],
    	hobbies:[
-       Games: ['CS:GO', 'Valorant', 'R6'...],
+       Games: ['R6','GTA5','BF1'],
        WatchingAnime: true,
        TVSeries: true
    ],  
