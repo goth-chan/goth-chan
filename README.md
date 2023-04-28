@@ -15,5 +15,3 @@
 ---
 ![](https://komarev.com/ghpvc/?username=Developergoth)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ssss4vu6dcmq5v53lql9wnrpq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
