@@ -13,5 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=goth-chan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=goth-chan&icon=4&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Developergoth)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ssss4vu6dcmq5v53lql9wnrpq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
